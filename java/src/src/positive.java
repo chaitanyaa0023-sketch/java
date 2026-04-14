@@ -5,8 +5,8 @@ public class positive {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		int num2 = sc.nextInt();
-		if(num2>0) {
+		int num3 = sc.nextInt();
+		if(num3>0) {
 			System.out.println("Positive");
 		}
 		else {
